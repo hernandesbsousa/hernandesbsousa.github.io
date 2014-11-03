@@ -1,0 +1,5 @@
+# Site settings
+title: Braindump do Hernandes
+
+# Build settings
+markdown: kramdown

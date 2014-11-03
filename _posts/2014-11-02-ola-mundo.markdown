@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Olá Mundo!"
+date:   2014-11-02 19:58:47
+categories: jekyll update
+---
+A ideia deste blog é fazer um "brain dump" técnico, passando um pouco do conhecimento que adquiro no dia a dia.
+
+Além de me ajudar em consultas futuras, espero que ele possa ajudar a mais alguém :)
+
+Já vi muitos casos onde muito tempo é gasto no tema e pouco na produção de conteúdo útil. Portanto, vou utilizar o tema padrão (que é até simpático) e modificá-lo aos poucos, tendo foco no conteúdo.
+
+Utilizei o [jekyll][jekyll] para a criação do blog e o [Github Pages][github-pages] para hospedagem, ambos cuja configuração foi bem mais simples do que imaginei.
+
+[jekyll]: http://jekyllrb.com/
+[github-pages]: https://pages.github.com/
