@@ -1,5 +1,7 @@
 # Site settings
 title: Braindump do Hernandes
 
+url: http://hernandes.me
+
 # Build settings
 markdown: kramdown
