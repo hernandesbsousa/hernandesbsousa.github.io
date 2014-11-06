@@ -1,5 +1,6 @@
 # Site settings
 title: Braindump do Hernandes
+permalink: /:title/
 
 url: http://hernandes.me
 
